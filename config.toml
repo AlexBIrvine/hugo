@@ -9,7 +9,7 @@ title = "6 Pak AL"
 # language
 languageCode = "en"
 languageName = "English"
-publishDir = "docs"
+publishDir = "public"
 
 # Author config
 [author]
