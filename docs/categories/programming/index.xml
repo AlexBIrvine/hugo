@@ -1,10 +1,10 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>All Posts - 6 Pak AL</title>
-        <link>https://6pakal.com/posts/</link>
-        <description>All Posts | 6 Pak AL</description>
+        <title>Programming - Category - 6 Pak AL</title>
+        <link>https://6pakal.com/categories/programming/</link>
+        <description>Programming - Category - 6 Pak AL</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>Dont.Have.One@NotYet.Com (6 Pak AL)</managingEditor>
-            <webMaster>Dont.Have.One@NotYet.Com (6 Pak AL)</webMaster><atom:link href="https://6pakal.com/posts/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>Dont.Have.One@NotYet.Com (6 Pak AL)</webMaster><atom:link href="https://6pakal.com/categories/programming/" rel="self" type="application/rss+xml" /><item>
     <title>Search Engines and Metadata</title>
     <link>https://6pakal.com/posts/searchenginesandmetadata/</link>
     <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
