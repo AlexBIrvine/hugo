@@ -1,6 +1,6 @@
 ---
 date: 2020-04-04
-title: Search Engines and Metadata
+title: This is only a test
 subtitle: Praising the greatest MtG search engine and how it can be applied to more topics.
 summary: Praising the greatest MtG search engine and how it can be applied to more topics.
 
