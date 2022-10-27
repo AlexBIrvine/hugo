@@ -5,7 +5,7 @@ subtitle: "The most important lesson learned from my time in fast food"
 summary: '"If you have time to lean you have time to clean" is the mindset that decentivises productivity.'
 featuredImage:
 featuredImagePreview:
-draft: true
+draft: false
 
 tags:
   - "Life Lessons"
